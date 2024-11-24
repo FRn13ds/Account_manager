@@ -33,7 +33,7 @@
    pip install requests colorama
    
    
-   python script.py
+   python act_mng.py
    
 *Kali Linux*   
 
@@ -55,7 +55,7 @@ bash
    pip3 install requests colorama
    
    
-   python3 script.py
+   python3 act_mng.py
 
 
 ##+++ Using +++
