@@ -1,4 +1,4 @@
-Welcome! 
+ ## Welcome! 
 +++ This A Free Tool To Save All Of Your Account +++
    
    markdown
@@ -24,10 +24,10 @@ Welcome!
    pkg install git
    
    
-   git clone 
+   git clone https://github.com/Ysynxx/-ccount_m-n-ger-
    
    
-   cd 
+   cd -ccount_m-n-ger-
    
    
    pip install requests colorama
@@ -46,10 +46,10 @@ bash
    sudo apt-get install git
    
    
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/Ysynxx/-ccount_m-n-ger-
    
    
-   cd repo-name
+   cd -ccount_m-n-ger-
    
    
    pip3 install requests colorama
