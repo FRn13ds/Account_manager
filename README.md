@@ -24,7 +24,7 @@
    pkg install git
    
    
-   git clone https://github.com/Ysynxx/Account_manager.git
+   git clone https://github.com/FRn13ds/Account_manager.git
    
    
    cd Account_manager
