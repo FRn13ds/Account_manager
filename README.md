@@ -35,7 +35,7 @@
    
    python act_mng.py
    
-###*Kali Linux*   
+### Kali Linux    
 
 bash
    
@@ -59,7 +59,11 @@ bash
 
 
 ## +++ Using +++
+
 1 _ open an account
+
 2 _ login to your account 
+
 3 _ add an account to save it
+
 4 _ save and exit 🐱‍🏍
