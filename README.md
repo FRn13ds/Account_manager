@@ -24,10 +24,10 @@
    pkg install git
    
    
-   git clone https://github.com/Ysynxx/-ccount_m-n-ger-.git
+   git clone https://github.com/Ysynxx/Account_manager.git
    
    
-   cd -ccount_m-n-ger-
+   cd Account_manager
    
    
    pip install requests colorama
@@ -46,10 +46,10 @@ bash
    sudo apt-get install git
    
    
-   git clone https://github.com/Ysynxx/-ccount_m-n-ger-.git
+   git clone https://github.com/Ysynxx/Account_manager.git
    
    
-   cd -ccount_m-n-ger-
+   cd Account_manager
    
    
    pip3 install requests colorama
