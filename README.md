@@ -24,7 +24,7 @@
    pkg install git
    
    
-   git clone https://github.com/Ysynxx/-ccount_m-n-ger-
+   git clone https://github.com/Ysynxx/-ccount_m-n-ger-.git
    
    
    cd -ccount_m-n-ger-
@@ -46,7 +46,7 @@ bash
    sudo apt-get install git
    
    
-   git clone https://github.com/Ysynxx/-ccount_m-n-ger-
+   git clone https://github.com/Ysynxx/-ccount_m-n-ger-.git
    
    
    cd -ccount_m-n-ger-
