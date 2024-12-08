@@ -9,6 +9,7 @@ init()
 header = "Tool Created By : 4nnonymous "
 row1 = "Contact  : alexandre.privatechat@gmail.com "
 row2 = "About Tool  : Save All of Your Accounts "
+row3 = "             Version : 0.1              "
 
 print(Fore.RED +"|"," "*45,"|")
 print("|",header," "*15,"|")
@@ -19,6 +20,7 @@ print(" ","-"*45)
 print("|"," "*45,"|")
 print("|",row2," "*4,"|")
 print(" ","-"*45)
+print(Fore.RED+"v0.1")
 
 # ملف تخزين المستخدمين
 store_file = 'users.json'
