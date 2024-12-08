@@ -24,10 +24,10 @@
    pkg install git
    
    
-   git clone https://github.com/FRn13ds/account_manager.git
+   git clone https://github.com/FRn13ds/account_recovery.git
    
    
-   cd account_manager
+   cd account_recovery
    
    
    pip install requests colorama
@@ -46,10 +46,10 @@ bash
    sudo apt-get install git
    
    
-   git clone https://github.com/Ysynxx/account_manager.git
+   git clone https://github.com/Ysynxx/account_recovery.git
    
    
-   cd account_manager
+   cd account_recovery
    
    
    pip3 install requests colorama
