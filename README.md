@@ -27,7 +27,7 @@
    git clone https://github.com/FRn13ds/account_manager.git
    
    
-   cd Account_manager
+   cd account_manager
    
    
    pip install requests colorama
@@ -49,7 +49,7 @@ bash
    git clone https://github.com/Ysynxx/account_manager.git
    
    
-   cd Account_manager
+   cd account_manager
    
    
    pip3 install requests colorama
