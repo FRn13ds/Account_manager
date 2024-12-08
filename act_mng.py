@@ -20,7 +20,8 @@ print(" ","-"*45)
 print("|"," "*45,"|")
 print("|",row2," "*4,"|")
 print(" ","-"*45)
-print(Fore.RED+"v0.1")
+print(Fore.GREEN+"|",row3," "*4,"|")
+print(" ","-"*45)
 
 # ملف تخزين المستخدمين
 store_file = 'users.json'
@@ -90,6 +91,8 @@ def main():
     print(" ","-"*45)
     print("|"," "*45,"|")
     print("|",row2," "*4,"|")
+    print(" ","-"*45)
+    print(Fore.GREEN+"|",row3," "*4,"|")
     print(" ","-"*45)
     print(Fore.BLUE +"  _    _                 _                 _            ")
     print(Fore.YELLOW +" | |  | |               | |               | |           ")
