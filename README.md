@@ -24,7 +24,7 @@
    pkg install git
    
    
-   git clone https://github.com/FRn13ds/Account_manager.git
+   git clone https://github.com/FRn13ds/account_manager.git
    
    
    cd Account_manager
@@ -46,7 +46,7 @@ bash
    sudo apt-get install git
    
    
-   git clone https://github.com/Ysynxx/Account_manager.git
+   git clone https://github.com/Ysynxx/account_manager.git
    
    
    cd Account_manager
@@ -64,6 +64,13 @@ bash
 
 2 _ login to your account 
 
+
+
 3 _ add an account to save it
 
+
 4 _ save and exit 🐱‍🏍
+
+
+### WARNING : This is a tool created just to save your accounts ! for educational purposes
+### WARNING : This is a tool created just to save your accounts ! for educational purposes
