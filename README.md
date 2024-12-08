@@ -1,10 +1,10 @@
  ## Welcome! 
 +++ This A Free Tool To Save All Of Your Account +++
    
-   markdown
+  
    
    
-   # Python account_manager
+   # Python account_saver
 
    
    
@@ -24,10 +24,10 @@
    pkg install git
    
    
-   git clone https://github.com/FRn13ds/account_recovery.git
+   git clone https://github.com/FRn13ds/account_saver.git
    
    
-   cd account_recovery
+   cd account_saver
    
    
    pip install requests colorama
@@ -46,11 +46,10 @@ bash
    sudo apt-get install git
    
    
-   git clone https://github.com/Ysynxx/account_recovery.git
+   git clone https://github.com/Ysynxx/account_saver.git
    
    
-   cd account_recovery
-   
+   cd account_saver   
    
    pip3 install requests colorama
    
@@ -60,7 +59,7 @@ bash
 
 ## +++ Using +++
 
-1 _ open an account
+1 _ create an account
 
 2 _ login to your account 
 
@@ -72,5 +71,5 @@ bash
 4 _ save and exit 🐱‍🏍
 
 
-### WARNING : This is a tool created just to save your accounts ! for educational purposes
+## For Feedback : https://frn13ds.github.io/Tools_feedback/
 ### WARNING : This is a tool created just to save your accounts ! for educational purposes
