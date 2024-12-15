@@ -24,16 +24,16 @@
    pkg install git
    
    
-   git clone https://github.com/FRn13ds/account_saver.git
+   git clone https://github.com/FRn13ds/account_saverV2.git
    
    
-   cd account_saver
+   cd account_saverV2
    
    
    pip install requests colorama
    
    
-   python act_mng.py
+   python update.py
    
 ### Kali Linux    
 
@@ -46,15 +46,15 @@ bash
    sudo apt-get install git
    
    
-   git clone https://github.com/Ysynxx/account_saver.git
+   git clone https://github.com/Ysynxx/account_saverV2.git
    
    
-   cd account_saver   
+   cd account_saverV2   
    
    pip3 install requests colorama
    
    
-   python3 act_mng.py
+   python3 update.py
 
 
 ## +++ Using +++
@@ -69,6 +69,18 @@ bash
 
 
 4 _ save and exit 🐱‍🏍
+
+
+
+
+
+
+
+
+
+
+
+###Thanks for testing our tools ! 
 
 
 ## For Feedback : https://frn13ds.github.io/Tools_feedback/
