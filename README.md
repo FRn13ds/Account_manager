@@ -30,7 +30,7 @@
    cd acc_saver_V3
    
    
-   pip install requests colorama
+   pip install requests colorama bcrypt
    
    
    python update.py
@@ -51,7 +51,7 @@ bash
    
    cd acc_saver_V3  
    
-   pip3 install requests colorama
+   pip3 install requests colorama bcrypt
    
    
    python3 update.py
