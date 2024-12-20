@@ -24,10 +24,10 @@
    pkg install git
    
    
-   git clone https://github.com/FRn13ds/account_saverV2.git
+   git clone https://github.com/FRn13ds/acc_saver_V3
    
    
-   cd account_saverV2
+   cd acc_saver_V3
    
    
    pip install requests colorama
@@ -46,10 +46,10 @@ bash
    sudo apt-get install git
    
    
-   git clone https://github.com/Ysynxx/account_saverV2.git
+   git clone https://github.com/FRn13ds/acc_saver_V3
    
    
-   cd account_saverV2   
+   cd acc_saver_V3  
    
    pip3 install requests colorama
    
@@ -85,3 +85,4 @@ bash
 
 ## For Feedback : https://frn13ds.github.io/Tools_feedback/
 ### WARNING : This is a tool created just to save your accounts ! for educational purposes
+## V 0.3 released at 20 / 12 / 2024 and maybe it was the last version of this project . Thanks For Testing And Using This Tool 
