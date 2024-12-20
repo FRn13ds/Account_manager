@@ -73,16 +73,8 @@ bash
 
 
 
-
-
-
-
-
-
-
-###Thanks for testing our tools ! 
-
-
 ## For Feedback : https://frn13ds.github.io/Tools_feedback/
-### WARNING : This is a tool created just to save your accounts ! for educational purposes
+
+### WARNING : This is a tool created just to save your accounts and manage it so don't worry about your account | THEY ARE IN A SAFE PLACE(File on Your Device)
+
 ## V 0.3 released at 20 / 12 / 2024 and maybe it was the last version of this project . Thanks For Testing And Using This Tool 
